@@ -1,0 +1,14 @@
+{
+    "author": "Aaron Dewberry",
+    "name": "adewberry.com",
+    "dependencies": {
+        "qtip2": "^3.0.3"
+    },
+    "description": "Digital resume.",
+    "license": "UNLICENSED",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/altrae/adewberry.git"
+    },
+    "version": "1.0.0"
+}

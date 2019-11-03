@@ -1,0 +1,4 @@
+#ignore these
+*.log
+*.txt
+node_modules
